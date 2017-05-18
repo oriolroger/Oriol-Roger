@@ -6,7 +6,11 @@
 function virtue_lang_setup() {
 	load_theme_textdomain('virtue', get_template_directory() . '/languages');
 }
+
+
 add_action( 'after_setup_theme', 'virtue_lang_setup' );
+
+
 /*
  * Init Theme Options
  */
