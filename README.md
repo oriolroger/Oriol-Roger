@@ -1,4 +1,4 @@
 # Oriol-Roger
 Oriol Roger Webpage
 
-Original Virtue Theme
+Trying to install a new WP Theme to my webpage (Bridge Theme)
